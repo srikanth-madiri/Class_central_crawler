@@ -14,4 +14,4 @@ $ scrapy crawl subjects -o file_name.csv
 
 $ scrapy crawl subjects -o file_name.json
 
---the complete scrapped data is written into "file_name.json" file which which gives you a json formatted data
+--the complete scrapped data is written into "file_name.json" file which gives you a json formatted data
