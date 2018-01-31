@@ -1,0 +1,2 @@
+# Class_central_crawler
+This crawler points to the "https://www.class-central.com/subjects"  page which has departments and domains and it in turn goes to each of these departments. Then finds the domains of each department and further crawls to each of the courses that a domain provides and also gets you the url for each course and stores the department along with course name and respective url into in CSV file or into a json format file.     
